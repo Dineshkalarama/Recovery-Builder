@@ -15,7 +15,7 @@ on:
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
   DEVICE: kona
-  DT_LINK: https://github.com/yograjfire18/twrp_device_realme_spartan.git
+  DT_LINK: https:https://github.com/AdarshGrewal/android_device_realme_rmx3371.git
   DT_PATH: device/Qualcomm/kona
   TARGET: recoveryimage
   TZ: Asia/manila
